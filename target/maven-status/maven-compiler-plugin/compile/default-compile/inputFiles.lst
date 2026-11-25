@@ -1,0 +1,15 @@
+C:\Users\Thinkpad\Downloads\banque-ddd-springboot-java21\banque-ddd-springboot\src\main\java\fr\demo\banque\application\usecase\DepositUseCase.java
+C:\Users\Thinkpad\Downloads\banque-ddd-springboot-java21\banque-ddd-springboot\src\main\java\fr\demo\banque\application\usecase\GetBalanceUseCase.java
+C:\Users\Thinkpad\Downloads\banque-ddd-springboot-java21\banque-ddd-springboot\src\main\java\fr\demo\banque\application\usecase\WithdrawUseCase.java
+C:\Users\Thinkpad\Downloads\banque-ddd-springboot-java21\banque-ddd-springboot\src\main\java\fr\demo\banque\BankingApplication.java
+C:\Users\Thinkpad\Downloads\banque-ddd-springboot-java21\banque-ddd-springboot\src\main\java\fr\demo\banque\domain\exception\AccountNotFoundException.java
+C:\Users\Thinkpad\Downloads\banque-ddd-springboot-java21\banque-ddd-springboot\src\main\java\fr\demo\banque\domain\exception\InsufficientBalanceException.java
+C:\Users\Thinkpad\Downloads\banque-ddd-springboot-java21\banque-ddd-springboot\src\main\java\fr\demo\banque\domain\exception\InvalidAmountException.java
+C:\Users\Thinkpad\Downloads\banque-ddd-springboot-java21\banque-ddd-springboot\src\main\java\fr\demo\banque\domain\model\Account.java
+C:\Users\Thinkpad\Downloads\banque-ddd-springboot-java21\banque-ddd-springboot\src\main\java\fr\demo\banque\domain\model\Money.java
+C:\Users\Thinkpad\Downloads\banque-ddd-springboot-java21\banque-ddd-springboot\src\main\java\fr\demo\banque\domain\port\AccountRepository.java
+C:\Users\Thinkpad\Downloads\banque-ddd-springboot-java21\banque-ddd-springboot\src\main\java\fr\demo\banque\infrastructure\config\DemoDataConfiguration.java
+C:\Users\Thinkpad\Downloads\banque-ddd-springboot-java21\banque-ddd-springboot\src\main\java\fr\demo\banque\infrastructure\config\UseCaseConfiguration.java
+C:\Users\Thinkpad\Downloads\banque-ddd-springboot-java21\banque-ddd-springboot\src\main\java\fr\demo\banque\infrastructure\persistence\InMemoryAccountRepository.java
+C:\Users\Thinkpad\Downloads\banque-ddd-springboot-java21\banque-ddd-springboot\src\main\java\fr\demo\banque\infrastructure\web\ApiExceptionHandler.java
+C:\Users\Thinkpad\Downloads\banque-ddd-springboot-java21\banque-ddd-springboot\src\main\java\fr\demo\banque\infrastructure\web\BankAccountController.java

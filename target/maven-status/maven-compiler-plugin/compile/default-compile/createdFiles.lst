@@ -1,0 +1,17 @@
+fr\demo\banque\domain\exception\InvalidAmountException.class
+fr\demo\banque\infrastructure\web\BankAccountController.class
+fr\demo\banque\infrastructure\persistence\InMemoryAccountRepository.class
+fr\demo\banque\domain\model\Money.class
+fr\demo\banque\infrastructure\web\ApiExceptionHandler.class
+fr\demo\banque\domain\model\Account.class
+fr\demo\banque\infrastructure\web\BankAccountController$AmountRequest.class
+fr\demo\banque\infrastructure\config\DemoDataConfiguration.class
+fr\demo\banque\application\usecase\GetBalanceUseCase.class
+fr\demo\banque\domain\port\AccountRepository.class
+fr\demo\banque\domain\exception\AccountNotFoundException.class
+fr\demo\banque\infrastructure\web\BankAccountController$BalanceResponse.class
+fr\demo\banque\infrastructure\config\UseCaseConfiguration.class
+fr\demo\banque\domain\exception\InsufficientBalanceException.class
+fr\demo\banque\BankingApplication.class
+fr\demo\banque\application\usecase\DepositUseCase.class
+fr\demo\banque\application\usecase\WithdrawUseCase.class

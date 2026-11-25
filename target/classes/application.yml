@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: banque-ddd
+server:
+  port: 8080
